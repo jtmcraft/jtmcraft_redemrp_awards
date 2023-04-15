@@ -1,4 +1,3 @@
-* Track distance on foot, mounts, and vehicles
+* Track distance on vehicles
 * Persist to database
-* Design awards for distances
-* Other awards like head shots, lootiung, etc.
+* Design awards and implement awards
