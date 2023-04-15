@@ -6,6 +6,8 @@ description 'jtmcraft redm awards'
 version '1.0.0'
 
 client_scripts {
+    '@redm-events/dataview.lua',
+    '@redm-events/events.lua',
     'client/cl_main.lua'
 }
 
